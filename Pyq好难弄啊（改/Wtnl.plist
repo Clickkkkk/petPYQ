@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>花花</string>
+		<key>icon</key>
+		<string>p1.png</string>
+		<key>words</key>
+		<string>今天吃了烤肉我太开心了哈哈哈哈哈哈哈哈哈哈哈哈哈哈</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>乐乐</string>
+		<key>icon</key>
+		<string>p2.png</string>
+		<key>words</key>
+		<string>今天吃了炸鸡我太开心了哈哈哈哈哈哈哈哈哈哈哈哈哈哈</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>我想不出名字了</string>
+		<key>icon</key>
+		<string>p3.png</string>
+		<key>words</key>
+		<string>今天吃了泡面我太开心了哈哈哈哈哈哈哈哈哈哈哈哈哈哈</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>这里是名字</string>
+		<key>icon</key>
+		<string>p4.png</string>
+		<key>words</key>
+		<string>balabalabala</string>
+	</dict>
+</array>
+</plist>

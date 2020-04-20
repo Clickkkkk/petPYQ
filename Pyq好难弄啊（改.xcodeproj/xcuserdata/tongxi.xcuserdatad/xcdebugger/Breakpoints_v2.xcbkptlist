@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B801CA55-3D72-431B-9555-E4E03F291AF6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FFBF347-931B-4950-9254-B3F2E7EB014E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/PyqGroupModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "-initWithDict:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0499AF4D-873B-4A0B-86FF-661FAD3AE404"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/PyqGroupModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-initWithDict:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C9E922A-5910-4BB1-AFB4-76219123B4A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "tableView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8C9E922A-5910-4BB1-AFB4-76219123B4A5 - 335f7b2235bc7aa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController tableView]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8C9E922A-5910-4BB1-AFB4-76219123B4A5 - ada908bbbc0618c4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController setTableView:]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90510DC-E517-451D-A5EC-8F33657E73EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "dataArray"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F7C981A-5428-4EBE-8B1C-F60CFD675D53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-dataArray"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EACF8FB-3D1A-426D-9423-EDA863DAF08D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "-dataArray"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E68EC225-0FE6-4BA8-B892-08F250202D62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/PyqGroupModel.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "icon"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E68EC225-0FE6-4BA8-B892-08F250202D62 - 66a9d2b90d01ab18"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel icon]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E68EC225-0FE6-4BA8-B892-08F250202D62 - 1d0a60a5c25f1b86"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel setIcon:]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ED334CB-997F-4E85-83E1-1CA0957449B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/PyqGroupModel.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "words"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8ED334CB-997F-4E85-83E1-1CA0957449B8 - caccf7812c0b0661"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel words]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8ED334CB-997F-4E85-83E1-1CA0957449B8 - 7dfb7ecbb82b4f0f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel setWords:]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDE6E45D-BBF2-4084-BF11-A673721F75A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/PyqGroupModel.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "name"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DDE6E45D-BBF2-4084-BF11-A673721F75A2 - 660791f4f2379410"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel name]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "DDE6E45D-BBF2-4084-BF11-A673721F75A2 - c15a52a1aa461cbe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PyqGroupModel setName:]"
+                  moduleName = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongxi/Documents/code/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/Pyq%E5%A5%BD%E9%9A%BE%E5%BC%84%E5%95%8A%EF%BC%88%E6%94%B9/PyqGroupModel.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07F3C8BA-F4C8-4721-9FD2-562363971C41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FA76F8A-90B2-4B5E-8358-39A98B11F11B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7237F02-A4AF-4171-A75A-CBAD9DC9ED20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67A62F8F-ECFC-4E88-8136-98F80F61AEEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/View/PyqTableViewCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "PyqTableViewCell()"
+            landmarkType = "2">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4283C46C-10AF-4485-8CAC-78BBD6EC7703"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/View/PyqTableViewCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "PyqTableViewCell()"
+            landmarkType = "2">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55DFBF91-4C98-4023-96BE-368CA765D2D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F83E1AEF-6AC9-45D0-9420-1C2B7A2D5405"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B96CE36C-3E92-4F37-86DD-4C03A2F38477"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C584786-99A0-4C67-827D-15D7D8C86E0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "376FF37D-B14D-4105-8160-0DE41BE02549"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pyq&#x597d;&#x96be;&#x5f04;&#x554a;&#xff08;&#x6539;/View/PyqTableViewCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "PyqTableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

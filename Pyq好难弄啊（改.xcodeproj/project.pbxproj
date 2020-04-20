@@ -1,0 +1,652 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		844EF17523A2687600B5D844 /* PyqFooterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 844EF17423A2687600B5D844 /* PyqFooterView.xib */; };
+		844EF17823A26F0200B5D844 /* PyqFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 844EF17723A26F0200B5D844 /* PyqFooterView.m */; };
+		84ACA5A02387E63500BD3C48 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA59F2387E63500BD3C48 /* AppDelegate.m */; };
+		84ACA5A32387E63500BD3C48 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5A22387E63500BD3C48 /* SceneDelegate.m */; };
+		84ACA5A62387E63500BD3C48 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5A52387E63500BD3C48 /* ViewController.m */; };
+		84ACA5A92387E63500BD3C48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84ACA5A72387E63500BD3C48 /* Main.storyboard */; };
+		84ACA5AB2387E63600BD3C48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84ACA5AA2387E63600BD3C48 /* Assets.xcassets */; };
+		84ACA5AE2387E63600BD3C48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84ACA5AC2387E63600BD3C48 /* LaunchScreen.storyboard */; };
+		84ACA5B12387E63600BD3C48 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5B02387E63600BD3C48 /* main.m */; };
+		84ACA5BB2387E63700BD3C48 /* Pyq______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5BA2387E63700BD3C48 /* Pyq______Tests.m */; };
+		84ACA5C62387E63700BD3C48 /* Pyq______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5C52387E63700BD3C48 /* Pyq______UITests.m */; };
+		84ACA5DA2387F0B900BD3C48 /* PyqCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84ACA5D92387F0B900BD3C48 /* PyqCell.xib */; };
+		84ACA5DF2387F1E100BD3C48 /* PyqGroupModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5DE2387F1E100BD3C48 /* PyqGroupModel.m */; };
+		84ACA5E22387F9C800BD3C48 /* PyqTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84ACA5E12387F9C800BD3C48 /* PyqTableViewCell.m */; };
+		84ACA5E42388018C00BD3C48 /* Wtnl.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84ACA5E32388018C00BD3C48 /* Wtnl.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		84ACA5B72387E63700BD3C48 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84ACA5932387E63500BD3C48 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84ACA59A2387E63500BD3C48;
+			remoteInfo = "Pyq好难弄啊（改";
+		};
+		84ACA5C22387E63700BD3C48 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84ACA5932387E63500BD3C48 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84ACA59A2387E63500BD3C48;
+			remoteInfo = "Pyq好难弄啊（改";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		844EF17423A2687600B5D844 /* PyqFooterView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PyqFooterView.xib; sourceTree = "<group>"; };
+		844EF17623A26F0200B5D844 /* PyqFooterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PyqFooterView.h; sourceTree = "<group>"; };
+		844EF17723A26F0200B5D844 /* PyqFooterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PyqFooterView.m; sourceTree = "<group>"; };
+		84ACA59B2387E63500BD3C48 /* Pyq好难弄啊（改.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pyq好难弄啊（改.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84ACA59E2387E63500BD3C48 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		84ACA59F2387E63500BD3C48 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		84ACA5A12387E63500BD3C48 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SceneDelegate.h; path = ../SceneDelegate.h; sourceTree = "<group>"; };
+		84ACA5A22387E63500BD3C48 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SceneDelegate.m; path = ../SceneDelegate.m; sourceTree = "<group>"; };
+		84ACA5A42387E63500BD3C48 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../ViewController.h; sourceTree = "<group>"; };
+		84ACA5A52387E63500BD3C48 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../ViewController.m; sourceTree = "<group>"; };
+		84ACA5A82387E63500BD3C48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84ACA5AA2387E63600BD3C48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84ACA5AD2387E63600BD3C48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84ACA5AF2387E63600BD3C48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84ACA5B02387E63600BD3C48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		84ACA5B62387E63700BD3C48 /* Pyq好难弄啊（改Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pyq好难弄啊（改Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84ACA5BA2387E63700BD3C48 /* Pyq______Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Pyq______Tests.m"; sourceTree = "<group>"; };
+		84ACA5BC2387E63700BD3C48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84ACA5C12387E63700BD3C48 /* Pyq好难弄啊（改UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pyq好难弄啊（改UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84ACA5C52387E63700BD3C48 /* Pyq______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Pyq______UITests.m"; sourceTree = "<group>"; };
+		84ACA5C72387E63700BD3C48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84ACA5D92387F0B900BD3C48 /* PyqCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PyqCell.xib; path = "../../../Pyq好难弄啊/Pyq好难弄啊/PyqCell.xib"; sourceTree = "<group>"; };
+		84ACA5DD2387F1E100BD3C48 /* PyqGroupModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PyqGroupModel.h; sourceTree = "<group>"; };
+		84ACA5DE2387F1E100BD3C48 /* PyqGroupModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PyqGroupModel.m; sourceTree = "<group>"; };
+		84ACA5E02387F9C800BD3C48 /* PyqTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PyqTableViewCell.h; sourceTree = "<group>"; };
+		84ACA5E12387F9C800BD3C48 /* PyqTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PyqTableViewCell.m; sourceTree = "<group>"; };
+		84ACA5E32388018C00BD3C48 /* Wtnl.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Wtnl.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84ACA5982387E63500BD3C48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5B32387E63700BD3C48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5BE2387E63700BD3C48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84ACA5922387E63500BD3C48 = {
+			isa = PBXGroup;
+			children = (
+				84ACA59D2387E63500BD3C48 /* Pyq好难弄啊（改 */,
+				84ACA5B92387E63700BD3C48 /* Pyq好难弄啊（改Tests */,
+				84ACA5C42387E63700BD3C48 /* Pyq好难弄啊（改UITests */,
+				84ACA59C2387E63500BD3C48 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84ACA59C2387E63500BD3C48 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA59B2387E63500BD3C48 /* Pyq好难弄啊（改.app */,
+				84ACA5B62387E63700BD3C48 /* Pyq好难弄啊（改Tests.xctest */,
+				84ACA5C12387E63700BD3C48 /* Pyq好难弄啊（改UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84ACA59D2387E63500BD3C48 /* Pyq好难弄啊（改 */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA59E2387E63500BD3C48 /* AppDelegate.h */,
+				84ACA59F2387E63500BD3C48 /* AppDelegate.m */,
+				84ACA5D62387E6B100BD3C48 /* View */,
+				84ACA5D52387E6A800BD3C48 /* Model */,
+				84ACA5D42387E69200BD3C48 /* Controller */,
+				84ACA5D32387E65600BD3C48 /* Supporing Files */,
+			);
+			path = "Pyq好难弄啊（改";
+			sourceTree = "<group>";
+		};
+		84ACA5B92387E63700BD3C48 /* Pyq好难弄啊（改Tests */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5BA2387E63700BD3C48 /* Pyq______Tests.m */,
+				84ACA5BC2387E63700BD3C48 /* Info.plist */,
+			);
+			path = "Pyq好难弄啊（改Tests";
+			sourceTree = "<group>";
+		};
+		84ACA5C42387E63700BD3C48 /* Pyq好难弄啊（改UITests */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5C52387E63700BD3C48 /* Pyq______UITests.m */,
+				84ACA5C72387E63700BD3C48 /* Info.plist */,
+			);
+			path = "Pyq好难弄啊（改UITests";
+			sourceTree = "<group>";
+		};
+		84ACA5D32387E65600BD3C48 /* Supporing Files */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5A72387E63500BD3C48 /* Main.storyboard */,
+				84ACA5AA2387E63600BD3C48 /* Assets.xcassets */,
+				84ACA5AC2387E63600BD3C48 /* LaunchScreen.storyboard */,
+				84ACA5AF2387E63600BD3C48 /* Info.plist */,
+				84ACA5E32388018C00BD3C48 /* Wtnl.plist */,
+				84ACA5B02387E63600BD3C48 /* main.m */,
+			);
+			name = "Supporing Files";
+			sourceTree = "<group>";
+		};
+		84ACA5D42387E69200BD3C48 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5A42387E63500BD3C48 /* ViewController.h */,
+				84ACA5A52387E63500BD3C48 /* ViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		84ACA5D52387E6A800BD3C48 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5DD2387F1E100BD3C48 /* PyqGroupModel.h */,
+				84ACA5DE2387F1E100BD3C48 /* PyqGroupModel.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		84ACA5D62387E6B100BD3C48 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				84ACA5A12387E63500BD3C48 /* SceneDelegate.h */,
+				84ACA5A22387E63500BD3C48 /* SceneDelegate.m */,
+				84ACA5E02387F9C800BD3C48 /* PyqTableViewCell.h */,
+				84ACA5E12387F9C800BD3C48 /* PyqTableViewCell.m */,
+				844EF17623A26F0200B5D844 /* PyqFooterView.h */,
+				844EF17723A26F0200B5D844 /* PyqFooterView.m */,
+				84ACA5D92387F0B900BD3C48 /* PyqCell.xib */,
+				844EF17423A2687600B5D844 /* PyqFooterView.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84ACA59A2387E63500BD3C48 /* Pyq好难弄啊（改 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84ACA5CA2387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改" */;
+			buildPhases = (
+				84ACA5972387E63500BD3C48 /* Sources */,
+				84ACA5982387E63500BD3C48 /* Frameworks */,
+				84ACA5992387E63500BD3C48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pyq好难弄啊（改";
+			productName = "Pyq好难弄啊（改";
+			productReference = 84ACA59B2387E63500BD3C48 /* Pyq好难弄啊（改.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84ACA5B52387E63700BD3C48 /* Pyq好难弄啊（改Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84ACA5CD2387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改Tests" */;
+			buildPhases = (
+				84ACA5B22387E63700BD3C48 /* Sources */,
+				84ACA5B32387E63700BD3C48 /* Frameworks */,
+				84ACA5B42387E63700BD3C48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84ACA5B82387E63700BD3C48 /* PBXTargetDependency */,
+			);
+			name = "Pyq好难弄啊（改Tests";
+			productName = "Pyq好难弄啊（改Tests";
+			productReference = 84ACA5B62387E63700BD3C48 /* Pyq好难弄啊（改Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		84ACA5C02387E63700BD3C48 /* Pyq好难弄啊（改UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84ACA5D02387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改UITests" */;
+			buildPhases = (
+				84ACA5BD2387E63700BD3C48 /* Sources */,
+				84ACA5BE2387E63700BD3C48 /* Frameworks */,
+				84ACA5BF2387E63700BD3C48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84ACA5C32387E63700BD3C48 /* PBXTargetDependency */,
+			);
+			name = "Pyq好难弄啊（改UITests";
+			productName = "Pyq好难弄啊（改UITests";
+			productReference = 84ACA5C12387E63700BD3C48 /* Pyq好难弄啊（改UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84ACA5932387E63500BD3C48 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1110;
+				ORGANIZATIONNAME = "周彦辰";
+				TargetAttributes = {
+					84ACA59A2387E63500BD3C48 = {
+						CreatedOnToolsVersion = 11.1;
+					};
+					84ACA5B52387E63700BD3C48 = {
+						CreatedOnToolsVersion = 11.1;
+						TestTargetID = 84ACA59A2387E63500BD3C48;
+					};
+					84ACA5C02387E63700BD3C48 = {
+						CreatedOnToolsVersion = 11.1;
+						TestTargetID = 84ACA59A2387E63500BD3C48;
+					};
+				};
+			};
+			buildConfigurationList = 84ACA5962387E63500BD3C48 /* Build configuration list for PBXProject "Pyq好难弄啊（改" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84ACA5922387E63500BD3C48;
+			productRefGroup = 84ACA59C2387E63500BD3C48 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84ACA59A2387E63500BD3C48 /* Pyq好难弄啊（改 */,
+				84ACA5B52387E63700BD3C48 /* Pyq好难弄啊（改Tests */,
+				84ACA5C02387E63700BD3C48 /* Pyq好难弄啊（改UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84ACA5992387E63500BD3C48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				844EF17523A2687600B5D844 /* PyqFooterView.xib in Resources */,
+				84ACA5DA2387F0B900BD3C48 /* PyqCell.xib in Resources */,
+				84ACA5E42388018C00BD3C48 /* Wtnl.plist in Resources */,
+				84ACA5AE2387E63600BD3C48 /* LaunchScreen.storyboard in Resources */,
+				84ACA5AB2387E63600BD3C48 /* Assets.xcassets in Resources */,
+				84ACA5A92387E63500BD3C48 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5B42387E63700BD3C48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5BF2387E63700BD3C48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84ACA5972387E63500BD3C48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84ACA5A62387E63500BD3C48 /* ViewController.m in Sources */,
+				84ACA5A02387E63500BD3C48 /* AppDelegate.m in Sources */,
+				84ACA5E22387F9C800BD3C48 /* PyqTableViewCell.m in Sources */,
+				84ACA5DF2387F1E100BD3C48 /* PyqGroupModel.m in Sources */,
+				844EF17823A26F0200B5D844 /* PyqFooterView.m in Sources */,
+				84ACA5B12387E63600BD3C48 /* main.m in Sources */,
+				84ACA5A32387E63500BD3C48 /* SceneDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5B22387E63700BD3C48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84ACA5BB2387E63700BD3C48 /* Pyq______Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84ACA5BD2387E63700BD3C48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84ACA5C62387E63700BD3C48 /* Pyq______UITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		84ACA5B82387E63700BD3C48 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84ACA59A2387E63500BD3C48 /* Pyq好难弄啊（改 */;
+			targetProxy = 84ACA5B72387E63700BD3C48 /* PBXContainerItemProxy */;
+		};
+		84ACA5C32387E63700BD3C48 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84ACA59A2387E63500BD3C48 /* Pyq好难弄啊（改 */;
+			targetProxy = 84ACA5C22387E63700BD3C48 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		84ACA5A72387E63500BD3C48 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84ACA5A82387E63500BD3C48 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84ACA5AC2387E63600BD3C48 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84ACA5AD2387E63600BD3C48 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		84ACA5C82387E63700BD3C48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		84ACA5C92387E63700BD3C48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84ACA5CB2387E63700BD3C48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		84ACA5CC2387E63700BD3C48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		84ACA5CE2387E63700BD3C48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改Tests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pyq好难弄啊（改.app/Pyq好难弄啊（改";
+			};
+			name = Debug;
+		};
+		84ACA5CF2387E63700BD3C48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改Tests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pyq好难弄啊（改.app/Pyq好难弄啊（改";
+			};
+			name = Release;
+		};
+		84ACA5D12387E63700BD3C48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Pyq好难弄啊（改";
+			};
+			name = Debug;
+		};
+		84ACA5D22387E63700BD3C48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NZDD32X3CW;
+				INFOPLIST_FILE = "Pyq好难弄啊（改UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "shbsbyzyc.Pyq------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Pyq好难弄啊（改";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84ACA5962387E63500BD3C48 /* Build configuration list for PBXProject "Pyq好难弄啊（改" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84ACA5C82387E63700BD3C48 /* Debug */,
+				84ACA5C92387E63700BD3C48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84ACA5CA2387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84ACA5CB2387E63700BD3C48 /* Debug */,
+				84ACA5CC2387E63700BD3C48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84ACA5CD2387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84ACA5CE2387E63700BD3C48 /* Debug */,
+				84ACA5CF2387E63700BD3C48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84ACA5D02387E63700BD3C48 /* Build configuration list for PBXNativeTarget "Pyq好难弄啊（改UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84ACA5D12387E63700BD3C48 /* Debug */,
+				84ACA5D22387E63700BD3C48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84ACA5932387E63500BD3C48 /* Project object */;
+}
